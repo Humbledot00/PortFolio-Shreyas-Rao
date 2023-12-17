@@ -145,6 +145,8 @@ button {
   display: flex;
   align-items: center;
   z-index: 100;
+  color: #000;
+
 }
 
 .dropdown {
