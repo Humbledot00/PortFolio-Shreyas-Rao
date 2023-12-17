@@ -3,6 +3,7 @@ import { Link} from "react-scroll";
 
 
 import './style.css'
+import { FaHamburger } from 'react-icons/fa';
 
 function Navbar() {
   const [isSticky, setIsSticky] = useState(false);
@@ -21,6 +22,10 @@ function Navbar() {
   const toggleDropdown = () => {
     setIsDropdownOpen(!isDropdownOpen);
   };
+
+  const closedropdown = () => {
+    setIsDropdownOpen(false);
+  }
 
   useEffect(() => {
     // Add your other event listeners and logic here
@@ -52,6 +57,7 @@ function Navbar() {
                   spy={true}
                   smooth={true}
                   duration={800}
+                  onClick={closedropdown}
                 >
                 Discover</Link>
               </li>
@@ -61,6 +67,7 @@ function Navbar() {
                   spy={true}
                   smooth={true}
                   duration={800}
+                  onClick={closedropdown}
                 >
                   Skils</Link>
                 </a>
@@ -71,6 +78,7 @@ function Navbar() {
                   spy={true}
                   smooth={true}
                   duration={800}
+                  onClick={closedropdown}
                 >
                   Projects</Link>
                 </a>
@@ -81,6 +89,7 @@ function Navbar() {
                   spy={true}
                   smooth={true}
                   duration={800}
+                  onClick={closedropdown}
                 >
                   Resume</Link>
                 </a>
@@ -99,12 +108,12 @@ function Navbar() {
           </div>
           <button
             id="hamburger"
+            className={isSticky ? 'sticky' : ''}
             aria-label="hamburger"
             aria-haspopup="true"
             aria-expanded={isDropdownOpen ? 'true' : 'false'}
             onClick={toggleDropdown}
-          >
-            A
+          ><FaHamburger/>
           </button>
         </div>
       </div>
