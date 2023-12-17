@@ -100,6 +100,10 @@ button {
   filter: invert(1);
 }
 
+#hamburger.sticky{
+  filter: invert(1);
+}
+
 .menu {
   position: relative;
   background: transparent;
@@ -304,8 +308,10 @@ button {
     display: none;
   }
 
-
- 
+  #nav-menu.sticky {
+    background-color: black;
+    color: white;
+  }
 }
 
 
