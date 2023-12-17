@@ -7,7 +7,7 @@ const Hero = () => {
     <div id="home" className="containercontent md:ml-28">
       <div className="box my-7 md:mt-32 sd:mt-16">
         <div className="">
-          <h2  data-aos="zoom-in-up" className="NameBanner ml-5 text-5xl font-bold tracking-tight">
+          <h2 className="NameBanner ml-5 text-5xl font-bold tracking-tight">
             Hello, I&apos;m Shreyas M Rao
           </h2>
           <h2 className="NameBanner text-4xl text-amber-400 mt-4 ml-5">
@@ -19,7 +19,7 @@ const Hero = () => {
                     }}
                     />
           </h2>
-          <p data-aos="zoom-in-up" className="mt-4 text-base text-zinc-600 ml-5 sd:text-center">
+          <p className="mt-4 text-base text-zinc-600 ml-5 sd:text-center">
             I&apos;m an undergraduate student at VCET Puttur
           </p>
         </div>
