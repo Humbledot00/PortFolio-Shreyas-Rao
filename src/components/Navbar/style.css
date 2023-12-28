@@ -149,8 +149,6 @@ button {
   display: flex;
   align-items: center;
   z-index: 100;
-  color: #000;
-
 }
 
 .dropdown {
@@ -312,6 +310,14 @@ button {
     background-color: black;
     color: white;
   }
+
+  .nav-start,
+  .nav-end,
+  .menu-bar,
+  .right-container {
+    color: rgb(0, 0, 0);
+
+}
 }
 
 
