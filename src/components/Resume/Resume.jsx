@@ -29,9 +29,9 @@ function Resume(){
                         </div>
                         <div className="card__content">
                             <h2 className="ml-6 text-xl">Internship, Virtual Reality </h2>
-                            <p className="ml-6 mt-1 text-slate-600 text-lg">Centre For System Design, NITK </p>
+                            <p className="ml-6 mt-1 text-slate-600 text-lg">Centre For System Design, NITK Surathkal</p>
                             <p className="ml-6 mt-2 text-amber-500 text-sm">November - 2023</p>
-                            <p className="ml-6 mr-3 mt-2 text-slate-500 text-sm">Internship through the IEEE Setuve programme at the Centre for System Design, NITK Surathkal. Working on virtual reality projects and solving hardware-software integration problems has been a rewarding and informative experience.</p>
+                            <p className="ml-6 mr-3 mt-2 text-slate-500 text-sm">Internship through the IEEE Setuve programme at the Centre for System Design, NITK Surathkal. Working on virtual reality projects and solving hardware-software integration problems has been a rewarding and informative experience. My professional development has been tremendously aided by the Centre for System Design's advice, materials, and collaborative environment.</p>
 
                     </div>
                 </div>
