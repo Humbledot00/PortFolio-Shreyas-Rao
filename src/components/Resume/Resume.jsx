@@ -12,8 +12,8 @@ function Resume(){
             <div className="flex flex-wrap justify-center gap-x-40 mt-10 ">
                 <div className="">
                     <button className="button" data-text="Awesome">
-                                <span className="actual-text">&nbsp;EDUCATION&nbsp;</span>
-                                <span aria-hidden="true" className="hover-text">&nbsp;EDUCATION&nbsp;</span>
+                                <span className="actual-text">&nbsp;INTERNSHIP&nbsp;</span>
+                                <span aria-hidden="true" className="hover-text">&nbsp;INTERNSHIP&nbsp;</span>
                     </button>
                     <div data-aos="zoom-in-up" className="bg-white w-80 h-96 rounded-lg shadow-blue-gray-500/40 shadow-2xl border-2  mt-5">  
                             <div className="flex p-2 gap-1">
@@ -28,10 +28,10 @@ function Resume(){
                             </div>
                         </div>
                         <div className="card__content">
-                            <h2 className="ml-6 text-xl">Pre-University, Computer Science </h2>
-                            <p className="ml-6 mt-1 text-slate-600 text-lg">Vivekananda Pre-University College </p>
-                            <p className="ml-6 mt-2 text-amber-500 text-sm">Year 2019 - Year 2021</p>
-                            <p className="ml-6 mr-3 mt-2 text-slate-500 text-sm">  My journey began during my +2 class, where I had the opportunity to delve into the world of programming and, more specifically, the C++ language.I am a passionate and dedicated student who has embarked on a journey in the field of computer science from an early age. </p>
+                            <h2 className="ml-6 text-xl">Internship, Virtual Reality </h2>
+                            <p className="ml-6 mt-1 text-slate-600 text-lg">Centre For System Design, NITK </p>
+                            <p className="ml-6 mt-2 text-amber-500 text-sm">November - 2023</p>
+                            <p className="ml-6 mr-3 mt-2 text-slate-500 text-sm">Internship through the IEEE Setuve programme at the Centre for System Design, NITK Surathkal. Working on virtual reality projects and solving hardware-software integration problems has been a rewarding and informative experience.</p>
 
                     </div>
                 </div>
