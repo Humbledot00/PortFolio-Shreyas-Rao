@@ -12,6 +12,25 @@ function Projects(){
                 
             </div>
             <div className="flex flex-wrap gap-x-11 justify-center">
+
+                    <Modal
+                    imageSrc="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mkANqHaOakhW3ZXySouAYQ.jpeg"
+                    title="Motion based interface for unity"
+                    description="Unity-powered virtual 3D object manipulation system."
+                    technology1="ESP8266"
+                    technology2="MPU6050"
+                    link="https://medium.com/@workforshreyas/crossing-boundaries-my-virtual-reality-adventure-a-journal-of-my-internship-e18f2d639223"
+                    />
+
+                    <Modal
+                    imageSrc="https://65390a05e54a6c0ace574555--benevolent-strudel-82fb0f.netlify.app/neurites.jpg"
+                    title="Neurites"
+                    description="ClubHub: Gateway to Membership and Events   "
+                    technology1="NodeJS"
+                    technology2="MongoDB"
+                    link="https://server-zl05.onrender.com/"
+                    />
+                
                     <Modal
                     imageSrc="https://65390a05e54a6c0ace574555--benevolent-strudel-82fb0f.netlify.app/medot.png"
                     title="MedDot"
@@ -28,15 +47,6 @@ function Projects(){
                     technology1="NodeJS"
                     technology2="MongoDB"
                     link="https://projectclubhouse.netlify.app"
-                    />
-
-                    <Modal
-                    imageSrc="https://65390a05e54a6c0ace574555--benevolent-strudel-82fb0f.netlify.app/neurites.jpg"
-                    title="Neurites"
-                    description="(working...).   "
-                    technology1="NodeJS"
-                    technology2="MongoDB"
-                    link=""
                     />
 
             </div>
