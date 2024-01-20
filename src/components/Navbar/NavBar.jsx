@@ -69,7 +69,7 @@ function Navbar() {
                   duration={800}
                   onClick={closedropdown}
                 >
-                  Skils</Link>
+                  Skills</Link>
                 </a>
               </li>
               <li>
