@@ -40,14 +40,6 @@ function Projects(){
                     link="https://meddot-nf7h5yreo-humbledot00.vercel.app"
                     />
 
-                    <Modal
-                    imageSrc="https://65390a05e54a6c0ace574555--benevolent-strudel-82fb0f.netlify.app/classicclub.png"
-                    title="Classic Club"
-                    description="Web application which aimed to create an interactive platform for the club."
-                    technology1="NodeJS"
-                    technology2="MongoDB"
-                    link="https://projectclubhouse.netlify.app"
-                    />
 
             </div>
         </div>
