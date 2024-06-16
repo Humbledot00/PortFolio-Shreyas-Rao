@@ -1,5 +1,7 @@
 import { FaGithub, FaLinkedin, FaInstagram, FaTwitter, FaTelegram } from "react-icons/fa";
 import Typewriter from 'typewriter-effect';
+import { ModalComponent } from './Resume'
+import resumeImage from './Hero/resume.jpg'
 
 
 const Hero = () => {
@@ -28,8 +30,8 @@ const Hero = () => {
             <a href="https://www.linkedin.com/in/shreyasraosayshello/">
               <button><span>Say HI</span></button>
             </a>
-            <a href="/Resume.pdf" download>
-              <button><span> Resume</span></button>
+            <a>
+              <ModalComponent resumeImage={resumeImage} />
             </a>
           </div>
           <div>
