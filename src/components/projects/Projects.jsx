@@ -41,7 +41,7 @@ function Projects(){
                     />
 
                     <Modal
-                    imageSrc="https://test11-byll.onrender.com/Robot_transparent_background.png"
+                    imageSrc="https://666ead45273aa9a74d03b3e3--transcendent-douhua-3b0d61.netlify.app/1.png"
                     title="Sankalp"
                     description="AI-Powered Chatbot"
                     technology1="Python"
