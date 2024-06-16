@@ -1,7 +1,7 @@
 import { FaGithub, FaLinkedin, FaInstagram, FaTwitter, FaTelegram } from "react-icons/fa";
 import Typewriter from 'typewriter-effect';
 import { ModalComponent } from './Resume'
-import resumeImage from './Hero/resume.jpg'
+import resumeImage from 'https://666ead45273aa9a74d03b3e3--transcendent-douhua-3b0d61.netlify.app/2.jpg'
 
 
 const Hero = () => {
