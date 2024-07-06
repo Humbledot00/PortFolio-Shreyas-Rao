@@ -30,6 +30,16 @@ function Projects(){
                     technology2="MongoDB"
                     link="https://server-zl05.onrender.com/"
                     />
+
+
+                    <Modal
+                    imageSrc="https://t.ly/KP1XR"
+                    title="Sankalp- AI powered Chatbot"
+                    description="Innovative chatbot features a pretrained Python model for intelligent response prediction."
+                    technology1="Python"
+                    technology2="NodeJS"
+                    link="https://test11-byll.onrender.com"
+                    />
                 
                     <Modal
                     imageSrc="https://65390a05e54a6c0ace574555--benevolent-strudel-82fb0f.netlify.app/medot.png"
@@ -38,6 +48,15 @@ function Projects(){
                     technology1="React"
                     technology2="NodeJS"
                     link="https://meddot-nf7h5yreo-humbledot00.vercel.app"
+                    />
+
+                    <Modal
+                    imageSrc="https://t.ly/ylziX"
+                    title="Shop Management System"
+                    description="Shop Management System, which deals with almost all the information related to the shop."
+                    technology1="Python"
+                    technology2="SQL"
+                    link="https://github.com/Humbledot00/Shop-Management-System.git"
                     />
 
 

@@ -28,7 +28,7 @@ const Hero = () => {
             <a href="https://www.linkedin.com/in/shreyasraosayshello/">
               <button><span>Say HI</span></button>
             </a>
-            <a href="/Resume.pdf" download>
+            <a href="/Resume.pdf" >
               <button><span> Resume</span></button>
             </a>
           </div>
