@@ -14,7 +14,7 @@ function Projects(){
             <div className="flex flex-wrap gap-x-11 justify-center">
 
                     <Modal
-                    imageSrc="public\images\IMG-20240827-WA0019.jpg"
+                    imageSrc="/images/IMG-20240827-WA0019.jpg"
                     title="Motion based interface for unity"
                     description="Unity-powered virtual 3D object manipulation system."
                     technology1="ESP8266"
@@ -23,7 +23,7 @@ function Projects(){
                     />
 
                     <Modal
-                    imageSrc="public\images\neurites.jpg"
+                    imageSrc="/images/neurites.jpg"
                     title="Neurites"
                     description="ClubHub: Gateway to Membership and Events   "
                     technology1="NodeJS"
@@ -33,7 +33,7 @@ function Projects(){
 
                 
                     <Modal
-                    imageSrc="public\images\medot.png"
+                    imageSrc="/images/medot.png"
                     title="MedDot"
                     description="A platform that provides health insights with integration of APIs."
                     technology1="React"
@@ -42,7 +42,7 @@ function Projects(){
                     />
 
                     <Modal
-                    imageSrc="public\images\sankalp.jpg"
+                    imageSrc="/images/sankalp.jpg"
                     title="Sankalp- AI powered Chatbot"
                     description="Innovative chatbot features a pretrained Python model for intelligent response prediction."
                     technology1="Python"
@@ -51,7 +51,7 @@ function Projects(){
                     />
 
                     <Modal
-                    imageSrc="public\images\shop.jpg"
+                    imageSrc="/images/shop.jpg"
                     title="Shop Management System"
                     description="Shop Management System, which deals with almost all the information related to the shop."
                     technology1="Python"
@@ -60,7 +60,7 @@ function Projects(){
                     />
 
                     <Modal
-                    imageSrc="public\images\bodhi.jpg"
+                    imageSrc="/images/bodhi.jpg"
                     title="Bodhiment: AI Mnemonics Generator"
                     description="Bodhiment is a project focused on generating mnemonics using the initial letters of given words."
                     technology1="Python"
@@ -69,7 +69,7 @@ function Projects(){
                     />
 
                     <Modal
-                    imageSrc="public\images\sort.jpg"
+                    imageSrc="/images/sort.jpg"
                     title="Facial Feature-Based Image Sorter"
                     description="The photos are processed using a machine learning model, and then sorted into a folder ."
                     technology1="Python"
