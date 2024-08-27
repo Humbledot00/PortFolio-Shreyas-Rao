@@ -105,7 +105,7 @@ const Hero = () => {
 
       <div className="bannerimage box">
         <img
-          src="https://65390a05e54a6c0ace574555--benevolent-strudel-82fb0f.netlify.app/hero.png"
+          src="/images/pic.png"
           alt="mine"
         />
       </div>
