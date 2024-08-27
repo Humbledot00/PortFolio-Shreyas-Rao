@@ -14,7 +14,7 @@ function Projects(){
             <div className="flex flex-wrap gap-x-11 justify-center">
 
                     <Modal
-                    imageSrc="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mkANqHaOakhW3ZXySouAYQ.jpeg"
+                    imageSrc="public\images\IMG-20240827-WA0019.jpg"
                     title="Motion based interface for unity"
                     description="Unity-powered virtual 3D object manipulation system."
                     technology1="ESP8266"
@@ -23,7 +23,7 @@ function Projects(){
                     />
 
                     <Modal
-                    imageSrc="https://65390a05e54a6c0ace574555--benevolent-strudel-82fb0f.netlify.app/neurites.jpg"
+                    imageSrc="public\images\neurites.jpg"
                     title="Neurites"
                     description="ClubHub: Gateway to Membership and Events   "
                     technology1="NodeJS"
@@ -31,18 +31,9 @@ function Projects(){
                     link="https://server-zl05.onrender.com/"
                     />
 
-
-                    <Modal
-                    imageSrc="https://t.ly/KP1XR"
-                    title="Sankalp- AI powered Chatbot"
-                    description="Innovative chatbot features a pretrained Python model for intelligent response prediction."
-                    technology1="Python"
-                    technology2="NodeJS"
-                    link="https://test11-byll.onrender.com"
-                    />
                 
                     <Modal
-                    imageSrc="https://65390a05e54a6c0ace574555--benevolent-strudel-82fb0f.netlify.app/medot.png"
+                    imageSrc="public\images\medot.png"
                     title="MedDot"
                     description="A platform that provides health insights with integration of APIs."
                     technology1="React"
@@ -51,12 +42,39 @@ function Projects(){
                     />
 
                     <Modal
-                    imageSrc="https://t.ly/ylziX"
+                    imageSrc="public\images\sankalp.jpg"
+                    title="Sankalp- AI powered Chatbot"
+                    description="Innovative chatbot features a pretrained Python model for intelligent response prediction."
+                    technology1="Python"
+                    technology2="NodeJS"
+                    link="https://test11-byll.onrender.com"
+                    />
+
+                    <Modal
+                    imageSrc="public\images\shop.jpg"
                     title="Shop Management System"
                     description="Shop Management System, which deals with almost all the information related to the shop."
                     technology1="Python"
                     technology2="SQL"
                     link="https://github.com/Humbledot00/Shop-Management-System.git"
+                    />
+
+                    <Modal
+                    imageSrc="public\images\bodhi.jpg"
+                    title="Bodhiment: AI Mnemonics Generator"
+                    description="Bodhiment is a project focused on generating mnemonics using the initial letters of given words."
+                    technology1="Python"
+                    technology2="React"
+                    link="https://github.com/Humbledot00/BodhiMent.git"
+                    />
+
+                    <Modal
+                    imageSrc="public\images\sort.jpg"
+                    title="Facial Feature-Based Image Sorter"
+                    description="The photos are processed using a machine learning model, and then sorted into a folder ."
+                    technology1="Python"
+                    technology2="OpenCV "
+                    link="https://github.com/Humbledot00/Image-Sorter.git"
                     />
 
 
