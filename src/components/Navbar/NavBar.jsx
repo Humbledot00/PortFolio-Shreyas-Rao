@@ -94,6 +94,11 @@ function Navbar() {
                   Resume</Link>
                 </a>
               </li>
+              <li>
+                <a className="nav-link" href="/links.html" >
+                  Usefull Links
+                </a>
+              </li>
             </ul>
           </nav>
         </div>
