@@ -82,7 +82,7 @@ const posts = [
                 <img src={post.image} alt="" className="h-2/3 w-full object-contain bg-gray-50" />
                 <div className="group relative">
                   <h3 className="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
-                    <a href={post.href}>
+                    <a href={post.author.href}>
                       <span className="absolute inset-0" />
                       {post.title}
                     </a>
